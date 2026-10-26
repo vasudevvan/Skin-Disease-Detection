@@ -1,0 +1,5 @@
+kaggle.json
+ham10000/
+skin_dataset/
+*.zip
+__pycache__/
